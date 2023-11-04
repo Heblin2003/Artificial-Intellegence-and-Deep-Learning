@@ -9,4 +9,5 @@ ML and Deep Learning based projects activities/works
 
 - Prediction using ANN model with MNIST dataset
 
+- Text preprocessing (learning embeddings, Tokenization, etc..) NLP
   
