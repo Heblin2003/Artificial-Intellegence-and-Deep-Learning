@@ -1,13 +1,12 @@
 # Machine-Learning-Deep-Learning
 ML and Deep Learning based projects activities/works 
 
-I have uploaded all my learned project works here ...
+- Breast cancer prediction using linear classification
 
-Projects worked on models like
+- Basic Linear regression
 
-ANN
+- Basic Linear regression using ANN model
 
-CNN
+- Prediction using ANN model with MNIST dataset
 
-RNN...
-
+  
