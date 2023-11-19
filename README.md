@@ -11,4 +11,6 @@ ML and Deep Learning based projects activities/works
 
 - Text preprocessing (learning embeddings, Tokenization, etc..) NLP
 
-- Recommending System (Deep Learning) 
+- Recommending System (Deep Learning)
+
+- Generating images using GAN model with MNIST dataset
